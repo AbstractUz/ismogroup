@@ -41,7 +41,7 @@
 			<span
 				class="block text-sm text-gray-500 sm:text-center dark:text-gray-400"
 				>© 2024
-				<a href="https://flowbite.com/" class="hover:underline">Ismo</a>.
+				<a href="https://flowbite.com/" class="hover:underline">Ismogroup</a>.
 				All Rights Reserved.</span
 			>
 		</div>
